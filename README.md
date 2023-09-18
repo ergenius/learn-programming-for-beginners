@@ -5,6 +5,7 @@
 * [General guideline](#general-guideline)
 * [Career target](#career-target)
 * [Setup developper machine](#setup-developper-machine)
+* [Basic knowledge](#basic-knowledge)
 
 ## General guideline
 
