@@ -27,6 +27,8 @@
 - https://kinsta.com/blog/how-to-install-node-js/
 - https://nodejs.org/en/download
 
+### Install Docker
+
 ### Install Python
 
 ## Basic knowledge
