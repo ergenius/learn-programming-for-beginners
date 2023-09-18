@@ -1,6 +1,11 @@
 # LPFB - Learn programming for beginners
 
-Remember! 
+## Table of Contents
+
+* [General guideline](#general-guideline)
+* [Career target](#career-target)
+
+## General guideline
 
 - On any subject, search on Google, Youtube & Wikipedia for more information!
 - On any subject always read the coresponding wikipedia page (if any) after reading or watching the more accesible content. On wikipedia, the information is presented in a more professional way, using the right academic terms, wich is usefull in jobs interviews.
