@@ -81,49 +81,49 @@ It is very important to become proficient in searching and finding solutions to 
 - https://www.youtube.com/watch?v=B-s71n0dHUk
 - https://www.youtube.com/watch?v=ORrELERGIHs
 
-### What Linux is?
+### What is Linux?
 
 - https://www.youtube.com/watch?v=PwugmcN1hf8
 - https://www.linux.com/what-is-linux/
 
-### What Ubuntu linux is? 
+### What is Ubuntu linux? 
 
 - https://www.youtube.com/watch?v=SDMQxLblarE
 - https://www.youtube.com/watch?v=lmeDvSgN6zY
 - https://www.hostinger.com/tutorials/what-is-ubuntu
 - https://en.wikipedia.org/wiki/Ubuntu
 
-### What a virtual machine is?
+### What is a virtual machine?
 
 - https://www.youtube.com/watch?v=N5gworNCJuY
 - https://www.youtube.com/watch?v=mQP0wqNT_DI
 - https://www.vmware.com/content/vmware/vmware-published-sites/us/topics/glossary/content/virtual-machine.html.html
 - https://en.wikipedia.org/wiki/Virtual_machine
 
-### What VirtualBox is?
+### What is VirtualBox?
 
 - https://www.youtube.com/watch?v=ROb5LPmjslw
 - https://www.youtube.com/watch?v=nvdnQX9UkMY
 - https://www.youtube.com/watch?v=sB_5fqiysi4
 - https://www.makeuseof.com/what-is-virtualbox-what-does-it-do/
 
-### What git is?
+### What is git?
 
 - https://www.youtube.com/watch?v=2ReR1YJrNOM
 - https://www.youtube.com/watch?v=9CAwvKiLICs
 - https://www.atlassian.com/git/tutorials/what-is-git
 - https://en.wikipedia.org/wiki/Git
 
-### What Docker is?
+### What is Docker?
 
 - https://www.youtube.com/watch?v=_dfLOzuIg2o
 - https://www.youtube.com/watch?v=rOTqprHv1YE
 - https://docs.docker.com/get-started/overview/
 - https://en.wikipedia.org/wiki/Docker_(software)
 
-### What Node.js is?
+### What is Node.js?
 
-### What LAMP is?
+### What is LAMP?
 
 
 
