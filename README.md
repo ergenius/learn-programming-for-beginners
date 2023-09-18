@@ -138,7 +138,7 @@ It is very important to become proficient in searching and finding solutions to 
 The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will allow you to start a career:
 
 - Frontend: HTML + CSS + JavaScript
-- Programming languages: JavaScript, Python, PHP
+- Programming languages: JavaScript, Python (optional) & PHP (optional)
 - JavaScript Frameworks: Node.js, React, React Native
 - Relational databases: MySQL (or MariaDB)
 - Protocols: HTTP, REST API
