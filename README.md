@@ -48,6 +48,10 @@ It is very important to become proficient in searching and finding solutions to 
 
 ### Install Docker
 
+- https://www.youtube.com/watch?v=5RQbdMn04Oc
+- https://docs.docker.com/engine/install/
+- https://docs.docker.com/desktop/install/windows-install/
+
 ### Install Python
 
 ### Install LAMP server
