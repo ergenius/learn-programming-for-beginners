@@ -2,7 +2,7 @@
 
 ## Setup developper machine
 
-### IDE
+### Install IDE
 
 - https://code.visualstudio.com/docs/setup/windows
 - https://code.visualstudio.com/download
@@ -18,7 +18,7 @@
 - https://www.youtube.com/watch?v=x5MhydijWmc
 - https://www.youtube.com/watch?v=v1JVqd8M3Yc
 
-### Git
+### Install Git
 
 - https://gitforwindows.org/
 
