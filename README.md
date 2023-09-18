@@ -82,6 +82,13 @@ It is very important to become proficient in searching and finding solutions to 
 - https://www.youtube.com/watch?v=sB_5fqiysi4
 - https://www.makeuseof.com/what-is-virtualbox-what-does-it-do/
 
+### What git is?
+
+- https://www.youtube.com/watch?v=2ReR1YJrNOM
+- https://www.youtube.com/watch?v=9CAwvKiLICs
+- https://www.atlassian.com/git/tutorials/what-is-git
+- https://en.wikipedia.org/wiki/Git
+
 ## Frontend and backend
 
 - https://www.youtube.com/watch?v=1mXrxc_sv1o
