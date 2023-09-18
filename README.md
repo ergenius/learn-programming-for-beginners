@@ -20,7 +20,7 @@ It is very important to become proficient in searching and finding solutions to 
 
 ## Setup developper machine
 
-### Install IDE
+### Install Visual Studio Code IDE
 
 - https://code.visualstudio.com/docs/setup/windows
 - https://code.visualstudio.com/download
