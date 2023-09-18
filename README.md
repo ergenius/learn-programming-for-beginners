@@ -2,36 +2,36 @@
 
 ## Setup developper machine
 
-### Windows users
+### IDE
 
-#### IDE
-
-##### What is an IDE?
+#### What is an IDE?
 
 - https://www.codecademy.com/article/what-is-an-ide
 - https://www.redhat.com/en/topics/middleware/what-is-ide
 - https://en.wikipedia.org/wiki/Integrated_development_environment
 
-##### Install an IDE
+#### Install an IDE
 
 - https://code.visualstudio.com/docs/setup/windows
 - https://code.visualstudio.com/download
 
-#### Linux on windows
+### Linux on windows
 
-##### Install Linux on Windows with WSL
+#### Install Linux on Windows with WSL
 
 - https://itsfoss.com/install-bash-on-windows/
 - https://learn.microsoft.com/en-us/windows/wsl/install
 
-##### What a virtual machine is?
+#### What a virtual machine is?
 
-##### Install a linux distribution in a virtual machine
+#### Install a linux distribution in a virtual machine
 
-#### Install node js
+### Install Node.js
 
 - https://kinsta.com/blog/how-to-install-node-js/
 - https://nodejs.org/en/download
+
+### Install Python
 
 ## Basic knowledge
 
