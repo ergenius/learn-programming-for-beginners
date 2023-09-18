@@ -8,8 +8,9 @@ Remember!
 - Create and use a git account: https://github.com/
 - Create an account & ask chat gpt about any subject you are interested into: https://chat.openai.com/
 - Always search for the latest information. Things are getting obsolete very fast in IT domain. Buy & read books if you like it, but always remember many are obsolete before you buy.
+- Read the documentation in English and improve your English language skills.
 
-It is very important to become proficient in searching and finding solutions to your programming subjects!
+It is very important to become proficient in searching and finding solutions to your programming subjects! Exercise this skill every day.
 
 ## Setup developper machine
 
