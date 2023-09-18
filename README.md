@@ -6,7 +6,7 @@ Remember!
 - On any subject always read the coresponding wikipedia page (if any) after reading or watching the more accesible content. On wikipedia, the information is presented in a more professional way, using the right academic terms, wich is usefull in jobs interviews if you learn them.
 - Create and use a stackoverflow account: https://stackoverflow.com/
 - Create and use a git account: https://github.com/
-- Create an account & ask chat gpt about any subject you are interested into: https://chat.openai.com/
+- Create an account & ask ChatGPT about any subject you are interested into: https://chat.openai.com/
 - Always search for the latest information. Things are getting obsolete very fast in IT domain. Buy & read books if you like it, but always remember many are obsolete before you buy.
 - Read the documentation in English and improve your English language skills.
 
