@@ -39,10 +39,10 @@ Download & install visual studio code: https://code.visualstudio.com/download
 
 ## Frontend and backend
 
-https://www.geeksforgeeks.org/frontend-vs-backend/
-https://careerfoundry.com/en/blog/web-development/whats-the-difference-between-frontend-and-backend/
-https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/
-https://en.wikipedia.org/wiki/Frontend_and_backend
+- https://www.geeksforgeeks.org/frontend-vs-backend/
+- https://careerfoundry.com/en/blog/web-development/whats-the-difference-between-frontend-and-backend/
+- https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/
+- https://en.wikipedia.org/wiki/Frontend_and_backend
 
 ## Frontend
 
