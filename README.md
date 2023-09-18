@@ -121,8 +121,6 @@ It is very important to become proficient in searching and finding solutions to 
 - https://docs.docker.com/get-started/overview/
 - https://en.wikipedia.org/wiki/Docker_(software)
 
-### What is Node.js?
-
 ### What is LAMP?
 
 
@@ -149,11 +147,42 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 ### HTML
 
+- https://www.youtube.com/watch?v=FQdaUv95mR8
+- https://www.youtube.com/watch?v=qz0aGYrrlhU
+- https://www.w3schools.com/html/default.asp (follow the entire tutorial)
+- https://en.wikipedia.org/wiki/HTML
+
 ### CSS
+
+- https://www.youtube.com/watch?v=1PnVor36_40
+- https://www.youtube.com/watch?v=OXGznpKZ_sA
+- https://www.w3schools.com/css/default.asp
+- https://en.wikipedia.org/wiki/CSS
 
 ### JavaScript
 
+- https://www.youtube.com/watch?v=W6NZfCO5SIk
+- https://www.youtube.com/watch?v=PkZNo7MFNFg
+- https://www.youtube.com/watch?v=jS4aFq5-91M
+- https://www.w3schools.com/js/default.asp
+- https://en.wikipedia.org/wiki/JavaScript
+
 ## JavaScript Frameworks: Node.js, React, React Native
+
+### Node.js
+
+- https://www.youtube.com/watch?v=TlB_eWDSMt4
+- https://www.youtube.com/watch?v=ENrzD9HAZK4
+- https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+- https://www.youtube.com/watch?v=Oe421EPjeBE
+- https://www.w3schools.com/nodejs/default.asp
+- https://en.wikipedia.org/wiki/Node.js
+
+### React
+
+### React Native
+
+
 
 ## Relational databases: MySQL (or MariaDB)
 
