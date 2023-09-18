@@ -58,7 +58,6 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 ### Install Ubuntu 20.04 LTS on VirtualBox (optional)
 
-- https://www.youtube.com/watch?v=x5MhydijWmc
 - https://www.youtube.com/watch?v=v1JVqd8M3Yc
 - https://www.ktexperts.com/how-to-install-ubuntu-20-04-1-lts-on-windows-using-virtualbox/
 
