@@ -1,5 +1,7 @@
 # LPFB - Learn programming for beginners
 
+Remember! On any subject, copy and paste the subject and search on Google, Youtube & Wikipedia for more information!
+
 ## Setup developper machine
 
 ### Install IDE
@@ -17,6 +19,7 @@
 
 - https://www.youtube.com/watch?v=x5MhydijWmc
 - https://www.youtube.com/watch?v=v1JVqd8M3Yc
+- https://www.ktexperts.com/how-to-install-ubuntu-20-04-1-lts-on-windows-using-virtualbox/
 
 ### Install Git
 
