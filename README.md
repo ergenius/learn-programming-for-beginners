@@ -1,6 +1,9 @@
 # LPFB - Learn programming for beginners
 
-Remember! On any subject, copy and paste the subject and search on Google, Youtube & Wikipedia for more information!
+Remember! 
+
+- On any subject, copy and paste the subject and search on Google, Youtube & Wikipedia for more information!
+- Always read wikipedia page after reading or watching the more accesible content. The information is presented in a more professional way wich is usefull in jobs interviews.
 
 ## Setup developper machine
 
@@ -45,10 +48,15 @@ Remember! On any subject, copy and paste the subject and search on Google, Youtu
 - https://www.redhat.com/en/topics/middleware/what-is-ide
 - https://en.wikipedia.org/wiki/Integrated_development_environment
 
-### What Linux is? What about Ubuntu?
+### What Linux is?
 
 - https://www.youtube.com/watch?v=PwugmcN1hf8
 - https://www.linux.com/what-is-linux/
+
+### What Ubuntu linux is? 
+
+- https://www.hostinger.com/tutorials/what-is-ubuntu
+- https://en.wikipedia.org/wiki/Ubuntu
 
 ### What a virtual machine is?
 
