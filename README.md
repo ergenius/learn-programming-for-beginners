@@ -5,25 +5,25 @@
 ### Windows users
 
 ##### What is an IDE?
-https://www.codecademy.com/article/what-is-an-ide
-https://www.redhat.com/en/topics/middleware/what-is-ide
-https://en.wikipedia.org/wiki/Integrated_development_environment
+- https://www.codecademy.com/article/what-is-an-ide
+- https://www.redhat.com/en/topics/middleware/what-is-ide
+- https://en.wikipedia.org/wiki/Integrated_development_environment
 
 ##### Install an IDE
 Download & install visual studio code: https://code.visualstudio.com/download
 
 ##### Install Linux on Windows with WSL
 
-https://itsfoss.com/install-bash-on-windows/
-https://learn.microsoft.com/en-us/windows/wsl/install
+- https://itsfoss.com/install-bash-on-windows/
+- https://learn.microsoft.com/en-us/windows/wsl/install
 
 ##### What a virtual machine is?
 
 ##### Install a linux distribution in a virtual machine
 
 Install node js
-https://kinsta.com/blog/how-to-install-node-js/
-https://nodejs.org/en/download
+- https://kinsta.com/blog/how-to-install-node-js/
+- https://nodejs.org/en/download
 
 ## Basic knowledge
 
