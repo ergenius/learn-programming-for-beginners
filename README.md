@@ -81,7 +81,8 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 - https://gist.github.com/sutlxwhx/cb1c124d560c5a2d21fe94ca25aed1e1
 - https://www.wampserver.com/
-- https://www.youtube.com/watch?v=bG_PMkHuRao
+- https://www.youtube.com/watch?v=yWstRAlAX1A
+- https://www.youtube.com/watch?v=4I8Cv96Yb6Q
 
 ### Install Python (optional/later)
 
