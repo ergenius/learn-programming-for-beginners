@@ -115,6 +115,11 @@ It is very important to become proficient in searching and finding solutions to 
 
 ### What Docker is?
 
+- https://www.youtube.com/watch?v=_dfLOzuIg2o
+- https://www.youtube.com/watch?v=rOTqprHv1YE
+- https://docs.docker.com/get-started/overview/
+- https://en.wikipedia.org/wiki/Docker_(software)
+
 ### What Node.js is?
 
 ### What Python is?
@@ -136,8 +141,8 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 - Frontend: HTML + CSS + JavaScript
 - Programming languages: JavaScript, Python, PHP
-- Frameworks: Node.js, React, React Native
-- Relational databases: MySQL or MariaDB
+- JavaScript Frameworks: Node.js, React, React Native
+- Relational databases: MySQL (or MariaDB)
 - Protocols: HTTP, REST API
 - LAMP: Linux + Apache + MySQL + PHP/Python
 
@@ -147,7 +152,12 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 ### CSS
 
-### Javascript
+### JavaScript
+
+## JavaScript Frameworks: Node.js, React, React Native
+
+## Relational databases: MySQL (or MariaDB)
+
+## Protocols: HTTP, REST API
 
 
-## Backend
