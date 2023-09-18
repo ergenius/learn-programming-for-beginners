@@ -8,7 +8,7 @@
 * [Basic knowledge](#basic-knowledge)
 * [Frontend and backend](#frontend-and-backend)
 * [HTML, CSS, Javascript](#html-css-javascript)
-* [JavaScript Frameworks](#javascript-frameworks-node-js-react-react-native)
+* [JavaScript Frameworks](#javascript-frameworks-nodejs-react-react-native)
 * [Relational databases: Theory, SQL & MySQL (or MariaDB)](#relational-databases-theory-sql-mysql-or-mariadb)
 * [Protocols: HTTP, REST API](#protocols-http-rest-api)
 * [Tutorials](#tutorials)
