@@ -53,18 +53,18 @@ It is very important to become proficient in searching and finding solutions to 
 - https://kinsta.com/blog/how-to-install-node-js/
 - https://nodejs.org/en/download
 
-### Install Python
-
-- https://www.youtube.com/watch?v=0DQsjE8vMpc
-- https://www.youtube.com/watch?v=m9I-YpOjXVQ
-- https://www.youtube.com/watch?v=cUAK4x_7thA
-- https://www.python.org/downloads/
-
 ### Install LAMP server
 
 - https://gist.github.com/sutlxwhx/cb1c124d560c5a2d21fe94ca25aed1e1
 - https://www.wampserver.com/
 - https://www.youtube.com/watch?v=bG_PMkHuRao
+
+### Install Python (optional/later)
+
+- https://www.youtube.com/watch?v=0DQsjE8vMpc
+- https://www.youtube.com/watch?v=m9I-YpOjXVQ
+- https://www.youtube.com/watch?v=cUAK4x_7thA
+- https://www.python.org/downloads/
 
 ## Basic knowledge
 
