@@ -6,7 +6,8 @@ Remember!
 - Always read wikipedia page after reading or watching the more accesible content. The information is presented in a more professional way wich is usefull in jobs interviews.
 - Create and use a stackoverflow account: https://stackoverflow.com/
 - Create and use a git account: https://github.com/
-- Create an account & ask chat gpt about any subject you are interested into: https://chat.openai.com/ 
+- Create an account & ask chat gpt about any subject you are interested into: https://chat.openai.com/
+- Always search for the latest information. Things are getting obsolete very fast in IT domain. Buy & read books if you like it, but always remember many are obsolete before you buy.
 
 It is very important to become proficient in searching and finding solutions to your programming subjects!
 
