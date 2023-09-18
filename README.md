@@ -24,7 +24,7 @@ It is very important to become proficient in searching and finding solutions to 
 
 - https://code.visualstudio.com/docs/setup/windows
 - https://code.visualstudio.com/download
-
+  
 ### Install Linux on Windows with WSL
 
 - https://www.youtube.com/watch?v=X-DHaQLrBi8
@@ -54,8 +54,16 @@ It is very important to become proficient in searching and finding solutions to 
 
 ### Install Python
 
+- https://www.youtube.com/watch?v=0DQsjE8vMpc
+- https://www.youtube.com/watch?v=m9I-YpOjXVQ
+- https://www.youtube.com/watch?v=cUAK4x_7thA
+- https://www.python.org/downloads/
+
 ### Install LAMP server
 
+- https://gist.github.com/sutlxwhx/cb1c124d560c5a2d21fe94ca25aed1e1
+- https://www.wampserver.com/
+- https://www.youtube.com/watch?v=bG_PMkHuRao
 
 ## Basic knowledge
 
@@ -65,6 +73,12 @@ It is very important to become proficient in searching and finding solutions to 
 - https://www.codecademy.com/article/what-is-an-ide
 - https://www.redhat.com/en/topics/middleware/what-is-ide
 - https://en.wikipedia.org/wiki/Integrated_development_environment
+
+### Getting Started With Visual Studio Code IDE
+
+- https://code.visualstudio.com/learn/get-started/basics
+- https://www.youtube.com/watch?v=B-s71n0dHUk
+- https://www.youtube.com/watch?v=ORrELERGIHs
 
 ### What Linux is?
 
