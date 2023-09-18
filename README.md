@@ -34,6 +34,9 @@ Remember! On any subject, copy and paste the subject and search on Google, Youtu
 
 ### Install Python
 
+### Install LAMP server
+
+
 ## Basic knowledge
 
 ### What is an IDE?
