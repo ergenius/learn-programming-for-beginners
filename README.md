@@ -2,8 +2,9 @@
 
 Remember! 
 
-- On any subject, copy and paste the subject and search on Google, Youtube & Wikipedia for more information!
+- On any subject, search on Google, Youtube & Wikipedia for more information!
 - Always read wikipedia page after reading or watching the more accesible content. The information is presented in a more professional way wich is usefull in jobs interviews.
+- Create an account & ask chat gpt about any subject you are interested into: https://chat.openai.com/
 
 ## Setup developper machine
 
