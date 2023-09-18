@@ -221,4 +221,13 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 ## Protocols: HTTP, REST API
 
+- https://www.youtube.com/watch?v=-MTSQjw5DrM
+- https://www.youtube.com/watch?v=2JYT5f2isg4
+- https://www.youtube.com/watch?v=-mN3VyJuCjM
+- https://www.youtube.com/watch?v=WXsD0ZgxjRw
+- https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLb169WxVNXwqqOM6-zfPv432peaNHu02q
+- https://en.wikipedia.org/wiki/API
+- https://en.wikipedia.org/wiki/HTTP
+- https://en.wikipedia.org/wiki/REST
+
 
