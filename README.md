@@ -229,7 +229,7 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 - https://en.wikipedia.org/wiki/REST
 
 
-### TODO
+## TODO
 
 Those will be added later (work in progress)
 
