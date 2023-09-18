@@ -51,6 +51,7 @@ It is very important to become proficient in searching and finding solutions to 
 
 ### What is an IDE?
 
+- https://www.youtube.com/watch?v=Whps_IeaetM
 - https://www.codecademy.com/article/what-is-an-ide
 - https://www.redhat.com/en/topics/middleware/what-is-ide
 - https://en.wikipedia.org/wiki/Integrated_development_environment
@@ -62,11 +63,17 @@ It is very important to become proficient in searching and finding solutions to 
 
 ### What Ubuntu linux is? 
 
+- https://www.youtube.com/watch?v=SDMQxLblarE
+- https://www.youtube.com/watch?v=lmeDvSgN6zY
 - https://www.hostinger.com/tutorials/what-is-ubuntu
 - https://en.wikipedia.org/wiki/Ubuntu
 
 ### What a virtual machine is?
 
+- https://www.youtube.com/watch?v=N5gworNCJuY
+- https://www.youtube.com/watch?v=mQP0wqNT_DI
+- https://www.vmware.com/content/vmware/vmware-published-sites/us/topics/glossary/content/virtual-machine.html.html
+- https://en.wikipedia.org/wiki/Virtual_machine
 
 ## Frontend and backend
 
