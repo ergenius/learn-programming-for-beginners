@@ -14,7 +14,8 @@
 
 ##### Install an IDE
 
-Download & install visual studio code: https://code.visualstudio.com/download
+- https://code.visualstudio.com/docs/setup/windows
+- https://code.visualstudio.com/download
 
 #### Linux on windows
 
