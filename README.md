@@ -19,6 +19,15 @@ It is very important to become proficient in searching and finding solutions to 
 - Becoming a beginner "full stack web developper"
 - Evolving into a cliend side (frontend) or backend side (backend) developper (it's your choice at the end).
 
+The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will allow you to start a career:
+
+- Frontend: HTML + CSS + JavaScript
+- Programming languages: JavaScript, Python (optional) & PHP (optional)
+- JavaScript Frameworks: Node.js, React, React Native
+- Relational databases: MySQL (or MariaDB)
+- Protocols: HTTP, REST API
+- LAMP: Linux + Apache + MySQL + PHP/Python
+
 ## Setup developper machine
 
 ### Install Visual Studio Code IDE
@@ -134,15 +143,6 @@ It is very important to become proficient in searching and finding solutions to 
 - https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/
 - https://en.wikipedia.org/wiki/Frontend_and_backend
 
-The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will allow you to start a career:
-
-- Frontend: HTML + CSS + JavaScript
-- Programming languages: JavaScript, Python (optional) & PHP (optional)
-- JavaScript Frameworks: Node.js, React, React Native
-- Relational databases: MySQL (or MariaDB)
-- Protocols: HTTP, REST API
-- LAMP: Linux + Apache + MySQL + PHP/Python
-
 ## HTML + CSS + Javascript
 
 ### HTML
@@ -176,13 +176,25 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 - https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
 - https://www.youtube.com/watch?v=Oe421EPjeBE
 - https://www.w3schools.com/nodejs/default.asp
+- https://nodejs.org/en/docs
 - https://en.wikipedia.org/wiki/Node.js
 
 ### React
 
+- https://www.youtube.com/watch?v=SqcY0GlETPk
+- https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+- https://www.youtube.com/watch?v=bMknfKXIFA8
+- https://react.dev/learn
+- https://www.w3schools.com/react/default.asp
+- https://en.wikipedia.org/wiki/React_(software)
+
 ### React Native
 
-
+- https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ
+- https://www.youtube.com/watch?v=0-S5a0eXPoc
+- https://www.youtube.com/watch?v=mJ3bGvy0WAY
+- https://reactnative.dev/docs/getting-started
+- https://en.wikipedia.org/wiki/React_Native
 
 ## Relational databases: MySQL (or MariaDB)
 
