@@ -41,6 +41,7 @@
 
 Watch:
 - https://www.youtube.com/watch?v=PwugmcN1hf8
+
 Read:
 - https://www.linux.com/what-is-linux/
 
