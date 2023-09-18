@@ -361,6 +361,6 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 Those will be added later (work in progress)
 
-- What is LAMP?
+- TypeScript
 - Algorithms
 - Programming design principles (such as SOLID, CAP theory and others)
