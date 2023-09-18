@@ -4,6 +4,8 @@
 
 ### Windows users
 
+#### IDE
+
 ##### What is an IDE?
 
 - https://www.codecademy.com/article/what-is-an-ide
@@ -14,6 +16,8 @@
 
 Download & install visual studio code: https://code.visualstudio.com/download
 
+#### Linux on windows
+
 ##### Install Linux on Windows with WSL
 
 - https://itsfoss.com/install-bash-on-windows/
@@ -23,7 +27,7 @@ Download & install visual studio code: https://code.visualstudio.com/download
 
 ##### Install a linux distribution in a virtual machine
 
-Install node js
+#### Install node js
 
 - https://kinsta.com/blog/how-to-install-node-js/
 - https://nodejs.org/en/download
