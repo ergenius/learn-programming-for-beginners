@@ -244,6 +244,9 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 ## Tutorials
 
+Complete any tutorial you like in any order (tutorials are ordered alphabetically). A fun start could be the games category.
+Try to complete as many tutorials as possible!
+
 #### Build your own `3D Renderer`
 
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
