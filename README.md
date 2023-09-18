@@ -4,27 +4,23 @@
 
 ### IDE
 
-#### What is an IDE?
-
-- https://www.codecademy.com/article/what-is-an-ide
-- https://www.redhat.com/en/topics/middleware/what-is-ide
-- https://en.wikipedia.org/wiki/Integrated_development_environment
-
-#### Install an IDE
-
 - https://code.visualstudio.com/docs/setup/windows
 - https://code.visualstudio.com/download
 
-### Linux on windows
+### Install Linux on Windows with WSL
 
-#### Install Linux on Windows with WSL
-
+- https://www.youtube.com/watch?v=X-DHaQLrBi8
 - https://itsfoss.com/install-bash-on-windows/
 - https://learn.microsoft.com/en-us/windows/wsl/install
 
-#### What a virtual machine is?
+### Install Ubuntu 20.04 LTS on VirtualBox
 
-#### Install a linux distribution in a virtual machine
+- https://www.youtube.com/watch?v=x5MhydijWmc
+- https://www.youtube.com/watch?v=v1JVqd8M3Yc
+
+### Git
+
+- https://gitforwindows.org/
 
 ### Install Node.js
 
@@ -35,7 +31,15 @@
 
 ## Basic knowledge
 
+### What is an IDE?
 
+- https://www.codecademy.com/article/what-is-an-ide
+- https://www.redhat.com/en/topics/middleware/what-is-ide
+- https://en.wikipedia.org/wiki/Integrated_development_environment
+
+### What Linux is? What about Ubuntu?
+
+### What a virtual machine is?
 
 
 ## Frontend and backend
