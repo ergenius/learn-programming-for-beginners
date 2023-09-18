@@ -6,6 +6,8 @@
 * [Career target](#career-target)
 * [Setup developper machine](#setup-developper-machine)
 * [Basic knowledge](#basic-knowledge)
+* [Frontend and backend](#frontend-and-backend)
+* [HTML + CSS + Javascript](#html-css-Javascript)
 
 ## General guideline
 
