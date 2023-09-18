@@ -32,7 +32,7 @@ It is very important to become proficient in searching and finding solutions to 
 - https://itsfoss.com/install-bash-on-windows/
 - https://learn.microsoft.com/en-us/windows/wsl/install
 
-### Install Ubuntu 20.04 LTS on VirtualBox
+### Install Ubuntu 20.04 LTS on VirtualBox (optional)
 
 - https://www.youtube.com/watch?v=x5MhydijWmc
 - https://www.youtube.com/watch?v=v1JVqd8M3Yc
