@@ -15,8 +15,8 @@ It is very important to become proficient in searching and finding solutions to 
 ## Career target
 
 - Understanding frontend & backend
-- Becoming a beginner a full stack web developper
-- Evolving into a beginer cliend side (froentend) or backend side (backend) developper (it's your choice at the end).
+- Becoming a beginner "full stack web developper"
+- Evolving into a beginer cliend side (frontend) or backend side (backend) developper (it's your choice at the end).
 
 ## Setup developper machine
 
