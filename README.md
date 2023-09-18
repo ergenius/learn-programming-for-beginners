@@ -17,7 +17,7 @@ It is very important to become proficient in searching and finding solutions to 
 
 - Understanding frontend & backend
 - Becoming a beginner "full stack web developper"
-- Evolving into a cliend side (frontend) or backend side (backend) developper (it's your choice at the end).
+- Evolving into a cliend side (frontend) or backend side (backend) developper (your choice at the end).
 
 The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will allow you to start a career:
 
