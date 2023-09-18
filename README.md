@@ -167,6 +167,15 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 - https://www.w3schools.com/js/default.asp
 - https://en.wikipedia.org/wiki/JavaScript
 
+## OOP programming
+
+- https://www.youtube.com/watch?v=PFmuCDHHpwk
+- https://www.youtube.com/watch?v=GEuS0tfLfEY
+- https://www.freecodecamp.org/news/object-oriented-programming-javascript/
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming
+- https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/
+- https://en.wikipedia.org/wiki/Object-oriented_programming
+
 ## JavaScript Frameworks: Node.js, React, React Native
 
 ### Node.js
