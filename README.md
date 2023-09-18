@@ -41,16 +41,16 @@ It is very important to become proficient in searching and finding solutions to 
 
 - https://gitforwindows.org/
 
-### Install Node.js
-
-- https://kinsta.com/blog/how-to-install-node-js/
-- https://nodejs.org/en/download
-
 ### Install Docker
 
 - https://www.youtube.com/watch?v=5RQbdMn04Oc
 - https://docs.docker.com/engine/install/
 - https://docs.docker.com/desktop/install/windows-install/
+
+### Install Node.js
+
+- https://kinsta.com/blog/how-to-install-node-js/
+- https://nodejs.org/en/download
 
 ### Install Python
 
@@ -112,6 +112,16 @@ It is very important to become proficient in searching and finding solutions to 
 - https://www.youtube.com/watch?v=9CAwvKiLICs
 - https://www.atlassian.com/git/tutorials/what-is-git
 - https://en.wikipedia.org/wiki/Git
+
+### What Docker is?
+
+### What Node.js is?
+
+### What Python is?
+
+### What LAMP is?
+
+
 
 ## Frontend and backend
 
