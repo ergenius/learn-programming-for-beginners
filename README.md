@@ -131,10 +131,6 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 - https://docs.docker.com/get-started/overview/
 - https://en.wikipedia.org/wiki/Docker_(software)
 
-### What is LAMP?
-
-
-
 ## Frontend and backend
 
 - https://www.youtube.com/watch?v=1mXrxc_sv1o
@@ -231,3 +227,10 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 - https://en.wikipedia.org/wiki/REST
 
 
+### TODO
+
+Those will be added later (work in progress)
+
+- What is LAMP?
+- Algorithms
+- Programming design principles (such as SOLID, CAP theory and others)
