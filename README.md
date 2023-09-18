@@ -23,6 +23,7 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 
 - Frontend: HTML + CSS + JavaScript
 - Programming languages: JavaScript, Python (optional) & PHP (optional)
+- OOP programming principles
 - JavaScript Frameworks: Node.js, React, React Native
 - Relational databases: MySQL (or MariaDB)
 - Protocols: HTTP, REST API
