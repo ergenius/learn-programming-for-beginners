@@ -206,7 +206,18 @@ The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will
 - https://reactnative.dev/docs/getting-started
 - https://en.wikipedia.org/wiki/React_Native
 
-## Relational databases: MySQL (or MariaDB)
+## Relational databases: Theory, SQL & MySQL (or MariaDB)
+
+- https://www.youtube.com/watch?v=OqjJjpjDRLc
+- https://www.youtube.com/watch?v=wp-7XtuIkqQ&list=PLhwiWaeTESev_ikFYJmneK26jYXoqepxR
+- https://www.youtube.com/watch?v=zsjvFFKOm3c
+- https://www.youtube.com/watch?v=Cz3WcZLRaWc
+- https://www.youtube.com/watch?v=7S_tz1z_5bA
+- https://www.youtube.com/watch?v=oPV2sjMG53U&list=PLZPZq0r_RZOMskz6MdsMOgxzheIyjo-BZ
+- https://www.w3schools.com/sql/default.asp
+- https://en.wikipedia.org/wiki/SQL
+- https://en.wikipedia.org/wiki/MySQL
+- https://en.wikipedia.org/wiki/MariaDB
 
 ## Protocols: HTTP, REST API
 
