@@ -21,7 +21,7 @@
 - Create and use a stackoverflow account: https://stackoverflow.com/
 - Create and use a git account: https://github.com/
 - Create an account & ask ChatGPT about any subject you are interested into: https://chat.openai.com/
-- Always search for the latest information. Things are getting obsolete very fast in IT domain.
+- Continously search for the latest information and update your knowledge. Things are getting obsolete very fast in the IT domain.
 - Buy & read printed books if you like reading them, but remember: many printed books are obsolete before you buy.
 - Read the documentation in English and improve your English language skills.
 
