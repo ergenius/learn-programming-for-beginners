@@ -75,8 +75,17 @@ It is very important to become proficient in searching and finding solutions to 
 - https://www.vmware.com/content/vmware/vmware-published-sites/us/topics/glossary/content/virtual-machine.html.html
 - https://en.wikipedia.org/wiki/Virtual_machine
 
+### What VirtualBox is?
+
+- https://www.youtube.com/watch?v=ROb5LPmjslw
+- https://www.youtube.com/watch?v=nvdnQX9UkMY
+- https://www.youtube.com/watch?v=sB_5fqiysi4
+- https://www.makeuseof.com/what-is-virtualbox-what-does-it-do/
+
 ## Frontend and backend
 
+- https://www.youtube.com/watch?v=1mXrxc_sv1o
+- https://www.youtube.com/watch?v=XBu54nfzxAQ
 - https://www.geeksforgeeks.org/frontend-vs-backend/
 - https://careerfoundry.com/en/blog/web-development/whats-the-difference-between-frontend-and-backend/
 - https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/
