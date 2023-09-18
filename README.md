@@ -98,7 +98,7 @@ It is very important to become proficient in searching and finding solutions to 
 - https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/
 - https://en.wikipedia.org/wiki/Frontend_and_backend
 
-The following tech stack will allow you to start building a career:
+The following [tech stack](https://www.heap.io/topics/what-is-a-tech-stack) will allow you to start building a career:
 
 - Frontend: HTML + CSS + JavaScript
 - Node.js
