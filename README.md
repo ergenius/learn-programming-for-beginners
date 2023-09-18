@@ -98,10 +98,20 @@ It is very important to become proficient in searching and finding solutions to 
 - https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/
 - https://en.wikipedia.org/wiki/Frontend_and_backend
 
-## Frontend
+The following tech stack will allow you to start building a career:
 
-## HTML + CSS + JavaScript
+- Frontend: HTML + CSS + JavaScript
+- Node.js
+- Python
+- LAMP: Linux + Apache + MySQL + PHP/Python
 
-A good oportunity to understand the diffrence in between frontend & backend is to learn 
+## HTML + CSS + Javascript
+
+### HTML
+
+### CSS
+
+### Javascript
+
 
 ## Backend
